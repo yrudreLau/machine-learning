@@ -1,2 +1,2 @@
 # machine-learning
-excercises of machine learning written by Z. H. Zhou
+Sharing python codes of excercises in the book: Machine Learning written by Z. H. Zhou.
