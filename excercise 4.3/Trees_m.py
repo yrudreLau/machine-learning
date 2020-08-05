@@ -26,7 +26,6 @@ def InformationEntropy(dataSet):
         p_k = Sample_Class[key] / Sample_Num
         Ent_D -= p_k*np.log2(p_k)
         
-        
     return Sample_Class, Ent_D
 
 ## split dataset by attribute return subset of input attribute value
