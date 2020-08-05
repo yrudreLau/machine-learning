@@ -103,5 +103,5 @@ def createFig(DecisionTree):
     plotTree.xoff = -0.5 / plotTree.totalw
     plotTree.yoff = 1.0
     plotTree(DecisionTree, (0.5, 1.0), '')
-    plt.savefig('DecisionTree.jpg')
+#   plt.savefig('DecisionTree.jpg')
     plt.show()
